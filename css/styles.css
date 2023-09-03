@@ -306,6 +306,20 @@ input[type=submit]:hover {
     color: #ffffff;
 }
 
+@media (orientation: landscape) {
+    .header {
+        height: 20vh;
+    }
+    
+    .link-list {
+        top: 20vh;
+    }
+    
+    .hero-section {
+        margin-top: 20vh;
+    }
+  }
+
 @media (min-width: 768px) {
     .toggle-btn {
         display: none;
