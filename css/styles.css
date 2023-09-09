@@ -329,6 +329,14 @@ input[type=submit]:hover {
         height: 10vh;
     }
 
+    .link-list {
+        top: 10vh;
+    }
+    
+    .hero-section {
+        margin-top: 10vh;
+    }
+
     .nav {
         flex-direction: row;
         justify-content: space-between;
